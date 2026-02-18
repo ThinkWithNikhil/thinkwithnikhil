@@ -5,6 +5,7 @@
 - I'm a product guy who can design, code and think in business.
 - I solve problems with emotional design and first-principles.
 - My favorite book is Steal Like an Artist by Austin Kleon.
+- Making [videos](https://www.youtube.com/playlist?list=PLED-QkMTgGNMNTNOSN6Tzf9-AI0VWWhQ-) on how to to turn produts from 'good enough' to 'unforgettable'
 
 More about me: https://thinkwithnikhil.com
 
