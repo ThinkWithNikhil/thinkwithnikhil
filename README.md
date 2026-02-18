@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey, this is Nikhil 👋
+
+**I help build unforgettable products and drive growth**
+
+- I'm a product guy who can design, code and think in business.
+- I solve problems with emotional design and first-principles.
+- My favorite book is Steal Like an Artist by Austin Kleon.
+
+More about me: https://thinkwithnikhil.com
+
 
 <!--
 **ThinkWithNikhil/thinkwithnikhil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
